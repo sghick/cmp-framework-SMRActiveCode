@@ -1,2 +1,2 @@
 # cmp-framework-SMRActiveCode
-动态加载App的方案
+动态部署方案
